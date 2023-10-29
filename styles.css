@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+.header{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+.photos{
+    width: 500px;
+  }
+
+  .btn{
+    background-color: turquoise;
+    color: black;
+    font-family: 'Dancing Script', cursive; 
+    font-size: 30px;
+    border: none;
+  }
+
