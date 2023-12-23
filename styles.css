@@ -27,13 +27,16 @@ body{
 }
 @media all and (max-width:500px){
   .photos{
-    width: 350px;
+    width: 250px;
   }
+
 }
 
-@media all and (max-width:350px){
+@media all and (max-width:400px){
   .photos{
     width: 200px;
   }
-
+  .btn{
+   font-size: 10px;
+  }
 }
