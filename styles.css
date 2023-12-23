@@ -29,5 +29,11 @@ body{
   .photos{
     width: 350px;
   }
+}
+
+@media all and (max-width:350px){
+  .photos{
+    width: 200px;
+  }
 
 }
